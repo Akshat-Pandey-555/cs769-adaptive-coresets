@@ -2,7 +2,7 @@
 
 CS 769 Optimization in Machine Learning, course project.
 
-**G18** Akshat Pandey (23B2175), Jash Dalal (23B1522)
+**G18** Akshat Pandey, Jash Dalal
 
 ## Overview
 
